@@ -1,0 +1,54 @@
+1201,103,f,Talking with Arif in skype about what he should where he do job in Gaje or ViewMobile. I called me his call made me wake up. i should not receive his call and talk with him.
+103,125,c_nm,News and Mail Check.
+125,135,f,Tube Natok.
+135,208,d_toefl,Word revise TPO's and China news Paper.
+208,237,c_ano,Eating Seheri and makin Fried Rice.
+237,251,d_pro,Blender. Object Creation Try. 
+251,257,d_toefl,open zaban XM.
+257,301 ,c_data,N++ to Time_Analyzer.
+301,303 ,c_data,update to Summury Sheet.
+303,336 ,c_data,Analysis by type
+336,340 ,c_data,Update to Routine.
+340,342,c_data,Sleep Time.
+342,346,c_data,What have done so far for Data Calulation.
+346,352,c_ano,rest.
+352,407,c_s,Salah_1 
+401,415,c_ex,Ex. Used Pump.
+415,429,d_toefl,tpo_12
+429,700,**,sleep
+700,748,c_ano,ohi_ruhi Cloth Iron.
+748,1000,d_toefl,tpo_12 done. 123 Minute.
+1000,1006,c_nm,News. About Battery Things.
+1006,1011,f,Tube Vids.
+1011,1014,d_toefl,Words Revise.
+1014,1020,c_wr,Brush
+1020,1204,c_ano,ohi_ruhi school and Marketing.
+1204,1217,c_nm,News; check.
+1217,1222,f,Natok.
+1222,110,d_toefl,China news and Words tpo_1; tpo_2
+110,130,c_ano,Rest. Lie on the  Floor; Sobashon.
+130,154,c_bath,Soaping.
+154,204,c_s,salah_2
+204,214,c_sma,Talking with Apa and so on.
+214,221,f,Tube.
+221,357,d_toefl,TPO 13; concertantion problem.
+357,418,d_toefl,Listening
+418,445,f,tube MiB. Man in Black.
+445,514,d_toefl,toefl Writing tasks.
+514,520,f,Tube and News Check.
+520,532,c_s,salah_3
+532,604,d_toefl,toefl Making Plan.
+604,633,d_toefl,search about toefl writting section tips and time distribution. see englis salang vids. 
+633,647,c_sma, search Totes amaz vids for Sazal,Mahin
+647,700,c_ano,Iffter and give rice on oven.
+700,730,c_ano,Talk with sajib about 
+730,744,c_s,salah_4
+744,800,c_eat,Eating
+800,807,f,News and FB check.
+807,900,d_toefl,tpo 13 rc
+900,930,d_pro,Belender tutorial
+930,1000,d_toefl,TPO_13 
+1000,1045,c_ano,Talk with salauddin
+1045,1057,c_sma,Thinking what can be done about Apa work with Salauddin.
+1057,1108,c_s,salah_5
+1108,1156,c_sma,Talk with Salauddin about Apa.

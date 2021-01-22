@@ -1,0 +1,20 @@
+551,610,c_wr,s1
+610,900,d_pro,Health Project. Watch Turin Gil Interviews, Searching about Food and So on. 
+900,915,c_eat,eating.
+915,930,c_ano,thinking about what to do.
+930,952,c_data,data calculation of  Last day.
+952,1000,c_data,Data organise of Last Days.
+1000,1140,c_sma,search about Higher study at USA in undergrad. Download vid, see vid by 10 minute school.
+1140,1226,c_nm,Activate my FB account check people activity and so on.
+1226,100,d_pro,TG talk how 21 years old open Gym and  his gym was selled out. 
+100,140,c_ex,AB L3 1 set Full, L2 1 set Half.
+140,146,f,FB check.
+146,217,c_eat,eating.
+217,247,c_ano,TG talk.
+247,311,f,gopal.
+311,321, f,  RED
+321,401,d_toefl,Making Word List. Toefl.
+401,647,c_ano,went to salauddin office and went then done meeting with Milon vi about what to do about EITA Development. 
+647,1116,f,to rana house then meet with salauddin,tabib we all walked to Krishi Bishi Biddaloy. Done lots of Fun that should be done.
+1116,1130,c_eat,fresh and Eating.
+1130,1212,f,tube and here and there.
